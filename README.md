@@ -5,6 +5,9 @@ An application used to record to-do item, built with React, Redux, TypeScript, a
 ## Project Screen Shot(s)
 ![To-do List Screenshot](https://github.com/angel-wan/to-do-list/assets/49020215/3d6a1e3a-84fa-40c8-a0ba-91c250114ff4)
 
+## Site
+https://angel-wan-to-do-list.netlify.app/
+
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `npm` installed globally on your machine.
