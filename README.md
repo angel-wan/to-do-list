@@ -3,7 +3,7 @@
 An application used to record to-do item, built with React, Redux, TypeScript, and CSS.
 
 ## Project Screen Shot(s)
-![To-do List Screenshot](https://github.com/angel-wan/to-do-list/assets/49020215/efae7660-133d-4bd8-9dd3-b2180037f988)
+![To-do List Screenshot](https://github.com/angel-wan/to-do-list/assets/49020215/a0d55fc1-beea-4a77-aed3-098f8c04272b)
 
 
 ## Installation and Setup Instructions
